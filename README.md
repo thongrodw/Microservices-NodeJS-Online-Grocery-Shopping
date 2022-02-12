@@ -1,5 +1,5 @@
 # Microservices-NodeJS-Online-Grocery-Shopping
-NodeJS Architecture Microservices Application: , MongoDB, ExpressJs
+NodeJS Architecture Microservices Application with ExpressJs and MongoDB
 
 
 ## How to run the program
